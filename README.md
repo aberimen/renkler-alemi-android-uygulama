@@ -2,8 +2,7 @@
 
 ## Uygulama Ekran Görüntüleri
 
-<img src = "Screenshot_1513258225.png" width="300" />
-<img src = "Screenshot_1513258241.png" width="300" />
+<img src = "Screenshot_1513258225.png" width="300" /> <img src = "Screenshot_1513258241.png" width="300" />
 <img src = "Screenshot_1513258246.png" width="300" />
 
 
